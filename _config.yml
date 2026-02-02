@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
+title: Personal website from Sergi Torras
+first_name: Sergi
+last_name: Torras Paradelo
+contact_note: sergitp999@gmail.com
   You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: Motivated and ambitious Applied Physics student at the University of Groningen, currently in the final year of a BSc program. Demonstrated strong analytical and problem-solving abilities through academic studies and hands-on experience in laboratory and entrepreneurial roles. Proven capacity to adapt, learn quickly, and thrive in challenging environments, eager to contribute to technical innovation, with a commitment to continuous learning and professional development in a high-performance environment. # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
